@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rezmodeus/headless-tests/issues"
   },
-  "homepage": "https://github.com/Rezmodeus/headless-tests#readme"
+  "homepage": "https://github.com/Rezmodeus/headless-tests#readme",
+  "devDependencies": {
+    "phantom": "^3.0.3"
+  }
 }
